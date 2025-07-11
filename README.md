@@ -23,7 +23,7 @@ This code is for **educational purposes only**. Creating, distributing, or using
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Ayatollah-Ransomware.git
+   git clone https://github.com/manirazii/Ayatollah-Ransomware.git
    ```
 2. Compile the code using a C compiler (e.g., GCC):
    ```bash
